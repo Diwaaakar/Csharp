@@ -1,4 +1,4 @@
-# Csharp
+# Csharp 4*4 rows and column
  c# practise
  
  
